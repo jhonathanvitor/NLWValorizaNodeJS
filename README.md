@@ -1,4 +1,4 @@
-# NLW-Valoriza-NodeJS
+# NLW Valoriza NodeJS
 
 Valoriza
 NLW Together - ministrada pela rocketset
