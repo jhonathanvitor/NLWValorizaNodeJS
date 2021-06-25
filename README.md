@@ -8,7 +8,7 @@ Preview
 ✨ Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Node.js
+Node.js<br />
 Typescript
 Express
 JSONWebToken
