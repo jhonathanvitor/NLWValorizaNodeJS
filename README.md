@@ -1,5 +1,7 @@
+# NLW Valoriza NodeJS
+
 Valoriza
-NLW Together
+NLW Together - ministrada pela rocketset
 
 Preview
 
