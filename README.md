@@ -1,27 +1,27 @@
 # NLW Valoriza NodeJS
 
-Valoriza
+Valoriza<br />
 NLW Together - ministrada pela rocketseat
 
-Preview
+Preview<br />
 
-✨ Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+✨ Tecnologias<br />
+Esse projeto foi desenvolvido com as seguintes tecnologias:<br />
 
 Node.js<br />
-Typescript
-Express
-JSONWebToken
-💻 Projeto
-Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
+Typescript<br />
+Express<br />
+JSONWebToken<br />
+💻 Projeto<br />
+Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.<br />
 
-🚀 Como executar
-Clone o repositório
-Rode yarn para baixar as dependências
-Rode yarn typeorm migration:run para criar as tabelas do banco de dados.
-Rode o yarn dev para iniciar a aplicação.
-Por fim, a aplicação estará disponível em http://localhost:3000
+🚀 Como executar<br />
+Clone o repositório<br />
+Rode yarn para baixar as dependências<br />
+Rode yarn typeorm migration:run para criar as tabelas do banco de dados.<br />
+Rode o yarn dev para iniciar a aplicação.<br />
+Por fim, a aplicação estará disponível em http://localhost:3000<br />
 
-📄 Licença
+📄 Licença<br />
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
