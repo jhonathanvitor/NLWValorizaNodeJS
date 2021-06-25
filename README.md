@@ -1,7 +1,7 @@
 # NLW Valoriza NodeJS
 
 Valoriza
-NLW Together - ministrada pela rocketset
+NLW Together - ministrada pela rocketseat
 
 Preview
 
